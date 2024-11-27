@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEO и Цифровой Маркетинг</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать в мир SEO и цифрового маркетинга</h1>
+        <nav>
+            <ul>
+                <li><a href="#services">Услуги</a></li>
+                <li><a href="#about">О нас</a></li>
+                <li><a href="#contact">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="services">
+        <h2>Наши Услуги</h2>
+        <p>Мы предлагаем широкий спектр услуг в области SEO и цифрового маркетинга.</p>
+        <ul>
+            <li>Оптимизация сайтов</li>
+            <li>Контент-маркетинг</li>
+            <li>Социальные сети</li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>О нас</h2>
+        <p>Наша команда профессионалов готова помочь вам достичь успеха в интернете.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Контакты</h2>
+        <p>Свяжитесь с нами по электронной почте: info@example.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 SEO и Цифровой Маркетинг. Все права защищены.</p>
+    </footer>
+</body>
+</html>
